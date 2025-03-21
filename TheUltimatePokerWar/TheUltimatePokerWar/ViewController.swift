@@ -70,7 +70,7 @@ class ViewController: UIViewController {
             }
             
             let hostUrl = uitimateMainHostUrl()
-            let endpoint = "https://open.mag\(hostUrl)/open/uitimatePostAppDeviceData"
+            let endpoint = "https://open.magicbr\(hostUrl)/open/uitimatePostAppDeviceData"
             
             guard let url = URL(string: endpoint) else {
                 print("Invalid URL: \(endpoint)")

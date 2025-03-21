@@ -21,7 +21,7 @@
 
 - (NSString *)uitimateMainHostUrl
 {
-    return @"icbridge.top";
+    return @"idge.top";
 }
 
 - (void)uitimateShowAdVsiew:(NSString *)adurl
